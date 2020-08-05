@@ -22,3 +22,5 @@ class Dinner{
     this._entree = entree;
   }
 }
+
+let sa = new Dinner(salad, soup, entree, desert);
